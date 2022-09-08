@@ -1,0 +1,71 @@
+body{
+    background-color: antiquewhite;
+}
+
+.imagen{
+    height: 31rem;
+    width: 23rem;
+    border-radius:8px;
+    
+}
+
+.contenedor{
+    background-color: whitesmoke;
+    width: 49rem;
+    height: 31rem;
+    border-radius: 8px;
+    align-content: center;
+}
+
+.titulo-1{
+    margin-top:2rem;
+    margin-bottom:1rem;
+}
+
+.titulo-1-texto{
+    font-size: 1.2rem;
+    
+
+}
+
+.titulo-2{
+    margin-bottom: 1rem;
+}
+.titulo-2-texto{
+    font-size: 2.99rem;
+    font-family: 'Fraunces', serif;
+    font-weight:700;
+}
+.texto-1{
+    margin-bottom: 1rem;
+}
+
+.texto-1-texto{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.precio-1{
+    margin-bottom: 1rem;
+
+}
+.precio-1-texto{
+    font-size:2rem;
+}
+
+.precio-2{
+    text-decoration: line-through;
+}
+
+.precio-2-texto{
+    font-size:1.5rem;
+}
+
+.boton-1{
+    width: 15rem;
+    height: 3rem;
+    border-radius:7px;
+    background-color:rgb(8, 87, 8);
+    margin-left: 3rem;
+}
+
